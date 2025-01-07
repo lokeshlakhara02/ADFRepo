@@ -1,0 +1,9 @@
+{
+	"name": "ADFLokeshProject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cb522665-6189-4645-88f1-cfcc816ac446",
+		"tenantId": "6387b4d9-b09e-477b-9dd1-b4d053a2a069"
+	}
+}
